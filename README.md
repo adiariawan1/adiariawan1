@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm adi ariawan</h1>
-<h3 align="center">machine learning enthusiast and web dev</h3>
+<h3 align="center">Ai for everythings</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adiariawan1&label=Profile%20views&color=0e75b6&style=flat" alt="adiariawan1" /> </p>
-
-- 🌱 I’m currently learning **OPENCV, VUE.JS**
-
-- 💬 Ask me about **PYTHON**
+- 💬 Ask me about **Ai**
 
 - 📫 How to reach me **adiariawan1140@gmail.com**
 
